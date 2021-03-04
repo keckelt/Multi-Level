@@ -1,0 +1,19 @@
+name: boilerplate
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - notebook
+  - jupyterlab
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - seaborn
+  - altair
+  - vega
+  - vega_datasets
+  - opentsne
+  - umap-learn
